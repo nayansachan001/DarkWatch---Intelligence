@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests[socks]
+streamlit-autorefresh
+pymongo
+python-dotenv
+openai
+pydantic
